@@ -2,7 +2,7 @@
 
 print(10*"=","Converter Suhu","="*10)
 
-print("Kamu mau mngubah satuan apa?\n1) Celcius\n2) Reamur\n3) Fareheit\n4) Kelvin\n")
+print("Kamu mau mengubah satuan apa?\n1) Celcius\n2) Reamur\n3) Fareheit\n4) Kelvin\n")
 satuan = str(input("Masukan Satuan Suhu yang ingin diubah : "))
 
 print("Permintaan diproses.....\n")
